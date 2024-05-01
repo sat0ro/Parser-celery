@@ -6,7 +6,7 @@ To execute the code you will need Python 3.12. If not, download and install it f
 
 ### Install Docker
 
-To deploy this project you will need Docker you can install it from [docker.com](https://www.docker.com).
+To deploy this project you will need Docker. You can install it from [docker.com](https://www.docker.com).
 
 ### Clone the Repository
 
